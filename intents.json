@@ -1,0 +1,86 @@
+{"intents":[
+  {"tag": "selamlama1",
+  "pattern": ["Merhaba","Hey","Selam"],
+  "responses": ["Merhaba","Merhaba sizi dinliyorum","Merhaba Efendim"],
+  "context_set": ""
+  },
+  {"tag": "selamlama2",
+  "pattern": ["İyi günler","Hayırlı günler","İyi geceler","Hayırlı geceler","İyi akşamlar","Hayırlı akşamlar","Günaydın"
+  ,"Tünaydın"],
+  "responses": ["İyi + efendim","İyi +"],
+  "context_set": ""
+  },
+  {"tag": "selamlasma",
+  "pattern": ["Nasılsın","Naber","Napıyosun","Ne yapıyorsun","Napıyorsun","Naptın","Ne yaptın","Nasıl hissediyorsun"
+  ,"Ne haber"],
+  "responses": ["İyiyim","İyi efendim"],
+  "context_set": ""
+  },
+  {"tag": "yaş1",
+  "pattern": ["Yaşın kaç","Yaşını söyleyebilir ","yaşındasın","yaş","yaşın","senin yaşın"],
+  "responses": ["Yaşımı bilmiyorum","Yaşım hakkında bir fikrim yok","2022 yılında üretildim"],
+  "context_set": ""
+  },
+  {"tag": "yaş2",
+  "pattern": ["Ne zaman doğdun","Hangi yılda üretildin","Ne zaman üretildin","Hangi yılda doğdun","doğdun","yapım",
+    "doğum","yıl","yılın"],
+  "responses": ["2022 yılında üretildim"],
+  "context_set": ""
+  },
+  {"tag": "isim",
+  "pattern": ["İsmin nedir","İsmini söyler","Adın ne","Adını söyler ","Kim olduğunu söyler misin",
+    "İsmini söyle","Adını söyle","Kim olduğunu söyle","İsim","Ad","ismin","adın","kimsin","kim","ismin ne"],
+  "responses": ["İsmim Hope.","Adım Hope.Muhammet Ali'nin sanal asistanıyım.","Adım Hope."
+  ,"İsmim Hope.Muhammet Ali'nin sanal asistanıyım.","Adım Hope.Muhammet Ali Varlık'ın sanal asistanıyım."],
+  "context_set": ""
+  },
+  {"tag": "saat",
+  "pattern": ["Saat kaç","Vakit nedir","Saati söyler","Vakti söyle","Saati söyle","Zamanı söyle","saat","zaman"
+  ,"saati","zamanı","zamanın","saatin","vaktin","vakit"],
+  "responses": ["Saat +","Saat + efendim","Saat + patron"],
+  "context_set": ""
+  },
+  {"tag": "hava durumu1",
+  "pattern": ["hava kaç derece","hava nasıl","hava durumu","hava","derece","durum","hava bugün kaç derece"
+  ,"hava yarın kaç derece","hava tahmini","hava raporu","havanın","hava tahmin raporu","havanın nasıl"],
+  "responses": ["- hava en yüksek +,en düşük * derece ve ?"],
+  "context_set": ""
+  },
+  {"tag": "uygulama çalıştır",
+  "pattern": ["Çalıştır","Uygulama çalıştır","uygulamayı aç","açar","aç"],
+  "responses": ["Tabi efendim"],
+  "context_set": ""
+  },
+  {"tag": "yemek",
+  "pattern": ["Açım","Çok açım","Yemek yemek istiyorum","Yemek sipariş et","Karnımı doyurmak istiyorum","yemek",
+    "karnım aç","aç","karın","doyurmak","doymak","açlık","yemek istiyorum"],
+  "responses": ["Tabi efendim açsınızdır","Yemeksepetini açıyorum.","Hemen sipariş verebiliriz efendim"],
+  "context_set": ""
+  },
+  {"tag": "not",
+  "pattern": ["not al","not defteri","not yaz","not et","not","notlara","notumu","notlar"],
+  "responses": ["Tabi efendim not alıyorum"],
+  "context_set": ""
+  },
+  {"tag": "viki",
+  "pattern": ["Vikipediye bak","Araştır","Bul","Bak","bakar","araştırır ","vikipedi","viki","kimdir","nedir"],
+  "responses": ["Tabi efendim vikipediye bakıyorum"],
+  "context_set": ""
+  },
+  {"tag": "muzik",
+  "pattern": ["müzik çal","müzik","müzik istiyorum","müzik aç","müzik ver","müzik"
+  ,"müzik sun","müzik oynat","bir şeyler çal"],
+  "responses": ["Tamam efendim müzik açıyorum"],
+  "context_set": ""
+  },
+  {"tag": "ovgu",
+  "pattern": ["aferim","aslansın","aslanım benim","aferim sana","aslan parçası","kral","reis"
+  ,"seviyorum seni","bir tanesin sen","tebrikler sana","tebrikler","tebrik ederim","tebrik ediyorum"
+  ,"gözlerinden öpüyorum","kralsın sen kral",  "aklınla bin yaşa"],
+  "responses": ["Bu övgüleri duyduğuma çok sevindim","Çok mutlu oldum duyduklarıma","Teşekkürler efendim"
+  ,"Teşekkürler","Teşekkür ederim","Teşekkür ederim efendim"],
+  "context_set": ""
+  }
+
+]
+}
