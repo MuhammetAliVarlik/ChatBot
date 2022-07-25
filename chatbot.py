@@ -118,7 +118,6 @@ class ChatBot:
         return np.array(bag)
 
     def chat(self):
-
         while True:
             self.inp = input("Siz:")
             if self.inp.lower() == "çıkış yap":

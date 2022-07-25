@@ -1,8 +1,8 @@
-2022-07-06 21:47:58.973230
-ankara
+2022-07-25 16:36:34.223854
+izmir
+['33 °/ 21 °', 'Az Bulutlu']
+['31 °/ 21 °', 'Açýk, Güneþli']
+['32 °/ 20 °', 'Az Bulutlu']
+['34 °/ 21 °', 'Kuvvetli Rüzgar']
+['30 °/ 21 °', 'Az Bulutlu']
 ['31 °/ 21 °', 'Az Bulutlu']
-['32 °/ 22 °', 'Parçalý Bulutlu']
-['32 °/ 22 °', 'Hafif Yaðmurlu, Aralýklý Güneþli']
-['30 °/ 22 °', 'Hafif Yaðmurlu, Aralýklý Güneþli']
-['25 °/ 19 °', 'Gök Gürültülü Saðanak Yaðýþ']
-['29 °/ 14 °', 'Az Bulutlu']

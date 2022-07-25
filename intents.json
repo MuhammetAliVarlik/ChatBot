@@ -30,8 +30,7 @@
   {"tag": "isim",
   "pattern": ["İsmin nedir","İsmini söyler","Adın ne","Adını söyler ","Kim olduğunu söyler misin",
     "İsmini söyle","Adını söyle","Kim olduğunu söyle","İsim","Ad","ismin","adın","kimsin","kim","ismin ne"],
-  "responses": ["İsmim Hope.","Adım Hope.Muhammet Ali'nin sanal asistanıyım.","Adım Hope."
-  ,"İsmim Hope.Muhammet Ali'nin sanal asistanıyım.","Adım Hope.Muhammet Ali Varlık'ın sanal asistanıyım."],
+  "responses": ["İsmim ChatBot.","Adım ChatBot."],
   "context_set": ""
   },
   {"tag": "saat",
@@ -72,15 +71,6 @@
   ,"müzik sun","müzik oynat","bir şeyler çal"],
   "responses": ["Tamam efendim müzik açıyorum"],
   "context_set": ""
-  },
-  {"tag": "ovgu",
-  "pattern": ["aferim","aslansın","aslanım benim","aferim sana","aslan parçası","kral","reis"
-  ,"seviyorum seni","bir tanesin sen","tebrikler sana","tebrikler","tebrik ederim","tebrik ediyorum"
-  ,"gözlerinden öpüyorum","kralsın sen kral",  "aklınla bin yaşa"],
-  "responses": ["Bu övgüleri duyduğuma çok sevindim","Çok mutlu oldum duyduklarıma","Teşekkürler efendim"
-  ,"Teşekkürler","Teşekkür ederim","Teşekkür ederim efendim"],
-  "context_set": ""
   }
-
 ]
 }
